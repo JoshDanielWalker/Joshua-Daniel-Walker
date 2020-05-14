@@ -138,6 +138,26 @@ footer {
 }
 
 
+@-webkit-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
 
 
 @media (prefers-color-scheme:dark) {
@@ -148,34 +168,13 @@ footer {
     background-position: right;
     background-size: contain;
         
-        background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
+background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
 background-size: 1600% 1600%;
+        -webkit-animation: gradient 100s ease infinite;
+-moz-animation: gradient 100s ease infinite;
+-o-animation: gradient 100s ease infinite;
+animation: gradient 100s ease infinite;
 
--webkit-animation: AnimationName 30s ease infinite;
--moz-animation: AnimationName 30s ease infinite;
--o-animation: AnimationName 30s ease infinite;
-animation: AnimationName 30s ease infinite;
-
-@-webkit-keyframes AnimationName {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
-@-o-keyframes AnimationName {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
-@keyframes AnimationName {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
 	}
 	h1 {
 		color: #fff
