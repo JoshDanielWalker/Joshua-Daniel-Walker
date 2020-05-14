@@ -1,13 +1,13 @@
 
 @font-face {
   font-family: Bariol_Regular;
-  src: url(/font/Bariol_Regular.woff);
+  src: url(font/Bariol_Regular.woff);
 }
 
 
 @font-face {
   font-family: Bariol_Bold;
-  src: url(/font/Bariol_Bold.woff);
+  src: url(font/Bariol_Bold.woff);
 }
 
 ::-moz-selection {
