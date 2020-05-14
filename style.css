@@ -196,7 +196,7 @@ footer {
 	}
 }
 
-body:hover {
+body:hover, body:active {
     background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
     background-size: 1600% 1600%;
     -webkit-animation: gradient 100s ease infinite;
