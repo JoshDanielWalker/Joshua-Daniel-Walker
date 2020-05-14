@@ -45,7 +45,7 @@ body {
 	flex-direction: column;
 	height: 100vh;
 	width: 100vw;
-	min-height: 36rem
+	min-height: 36rem;
 }
 
 #main {
@@ -90,7 +90,20 @@ small {
 	max-width: 35rem
 }
 
+body:hover h1 {
+    color: #fff;
+}
 
+body:hover small {
+    color: #fff;
+}
+
+body:hover #social a:nth-child(1),
+body:hover #social a:nth-child(2),
+body:hover #social a:nth-child(3) {
+		-webkit-filter: contrast(0) brightness(2) saturate(0);
+		filter: contrast(0) brightness(2) saturate(0)
+	}
 
 footer {
 	display: -webkit-box;
@@ -164,18 +177,6 @@ footer {
 @media (prefers-color-scheme:dark) {
 	body {
     background: #232323;
-    background-image: url(img/avater.jpg);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: contain;
-        
-background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
-background-size: 1600% 1600%;
-        -webkit-animation: gradient 100s ease infinite;
--moz-animation: gradient 100s ease infinite;
--o-animation: gradient 100s ease infinite;
-animation: gradient 100s ease infinite;
-
 	}
 	h1 {
 		color: #fff
@@ -187,12 +188,21 @@ animation: gradient 100s ease infinite;
 	small a::after {
 		background: #fff
 	}
+	#social a:nth-child(1),
 	#social a:nth-child(2),
-	#social a:nth-child(3),
-	#social a:nth-child(6) {
+	#social a:nth-child(3) {
 		-webkit-filter: contrast(0) brightness(2) saturate(0);
 		filter: contrast(0) brightness(2) saturate(0)
 	}
+}
+
+body:hover {
+    background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
+    background-size: 1600% 1600%;
+    -webkit-animation: gradient 100s ease infinite;
+    -moz-animation: gradient 100s ease infinite;
+    -o-animation: gradient 100s ease infinite;
+    animation: gradient 100s ease infinite;
 }
 
 @media (max-width:75rem) {
