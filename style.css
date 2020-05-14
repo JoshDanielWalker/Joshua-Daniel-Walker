@@ -34,6 +34,7 @@ body {
 	margin: 0;
 	padding: 6rem;
     font-family: Bariol_Regular;
+    font-display: swap;
 	background: #fff;
 	display: -webkit-box;
 	display: -ms-flexbox;
