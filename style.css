@@ -234,15 +234,18 @@ body:hover, body:active {
 		padding: 2rem
 	}
 	h1 {
-		font-size: 9vw
-	}
-	small {
-		font-size: .875rem
+		font-size: 12vw
 	}
 	footer {
 		margin-top: 2rem
 	}
 	#social a {
 		margin-right: 1.5rem
+	}
+}
+
+@media (max-width:30rem) {
+    	h1 {
+		font-size: 16vw;
 	}
 }
