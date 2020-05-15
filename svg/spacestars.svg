@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-215.3379669189453 54.682682037353516 630.5227661132812 284.5698547363281" width="630.5227661132812" height="284.5698547363281" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style>
+	
+.st0{fill:#333333;} .st1{fill:#DE4D96;} .st2{fill:#4D6FB4;} .st3{fill:#FCC870;} .st4{fill:#64328A;} .st5{fill:#73C1A2;} .st6{fill:#6B57A1;} .st7{fill:#5183C3;}
+		
+		
+.st1{
+	top: 120px;
+	left: 760px;
+  -webkit-animation: pink 6s infinite; /* Safari 4+ */
+  -moz-animation:    pink 6s infinite; /* Fx 5+ */
+  -o-animation:      pink 6s infinite; /* Opera 12+ */
+  animation:         pink 6s infinite; /* IE 10+, Fx 29+ */
+	-webkit-animation-timing-function: linear; /* Chrome, Safari, Opera */
+    animation-timing-function: linear;
+	z-index: 502;
+}
+
+@-webkit-keyframes pink {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(2px, 0, 0) rotate(-360deg);
+  }
+}
+@-moz-keyframes pink {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(2px, 0, 0) rotate(-360deg);
+  }
+}
+@-o-keyframes pink {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(2px, 0, 0) rotate(-360deg);
+  }
+}
+@keyframes pink {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(2px, 0, 0) rotate(-360deg);
+  }
+}
+	
+.st2, .st7{
+	top: 120px;
+	left: 760px;
+  -webkit-animation: blue 8s infinite; /* Safari 4+ */
+  -moz-animation:    blue 8s infinite; /* Fx 5+ */
+  -o-animation:      blue 8s infinite; /* Opera 12+ */
+  animation:         blue 8s infinite; /* IE 10+, Fx 29+ */
+	-webkit-animation-timing-function: linear; /* Chrome, Safari, Opera */
+    animation-timing-function: linear;
+	z-index: 502;
+}
+
+@-webkit-keyframes blue {
+from {
+    transform: rotate(0deg) translate3d(3px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(3px, 0, 0) rotate(-360deg);
+  }
+}
+@-moz-keyframes blue {
+from {
+    transform: rotate(0deg) translate3d(3px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(3px, 0, 0) rotate(-360deg);
+  }
+}
+@-o-keyframes blue {
+from {
+    transform: rotate(0deg) translate3d(3px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(3px, 0, 0) rotate(-360deg);
+  }
+}
+@keyframes blue {
+from {
+    transform: rotate(0deg) translate3d(3px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg) translate3d(3px, 0, 0) rotate(-360deg);
+  }
+}
+	
+.st3{
+	top: 120px;
+	left: 760px;
+  -webkit-animation: yellow 5s infinite; /* Safari 4+ */
+  -moz-animation:    yellow 5s infinite; /* Fx 5+ */
+  -o-animation:      yellow 5s infinite; /* Opera 12+ */
+  animation:         yellow 5s infinite; /* IE 10+, Fx 29+ */
+	-webkit-animation-timing-function: linear; /* Chrome, Safari, Opera */
+    animation-timing-function: linear;
+	z-index: 502;
+}
+
+@-webkit-keyframes yellow {
+from {
+    transform: rotate(0deg) translate3d(4px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(4px, 0, 0) rotate(360deg);
+  }
+}
+@-moz-keyframes yellow {
+from {
+    transform: rotate(0deg) translate3d(4px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(4px, 0, 0) rotate(360deg);
+  }
+}
+@-o-keyframes yellow {
+from {
+    transform: rotate(0deg) translate3d(4px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(4px, 0, 0) rotate(360deg);
+  }
+}
+@keyframes yellow {
+from {
+    transform: rotate(0deg) translate3d(4px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(4px, 0, 0) rotate(360deg);
+  }
+}
+	
+.st4, .st5, .st6{
+	top: 120px;
+	left: 760px;
+  -webkit-animation: purple-green 7s infinite; /* Safari 4+ */
+  -moz-animation:    purple-green 7s infinite; /* Fx 5+ */
+  -o-animation:      purple-green 7s infinite; /* Opera 12+ */
+  animation:         purple-green 7s infinite; /* IE 10+, Fx 29+ */
+	-webkit-animation-timing-function: linear; /* Chrome, Safari, Opera */
+    animation-timing-function: linear;
+	z-index: 502;
+}
+
+@-webkit-keyframes purple-green {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(2px, 0, 0) rotate(360deg);
+  }
+}
+@-moz-keyframes purple-green {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(2px, 0, 0) rotate(360deg);
+  }
+}
+@-o-keyframes purple-green {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(2px, 0, 0) rotate(360deg);
+  }
+}
+@keyframes purple-green {
+from {
+    transform: rotate(0deg) translate3d(2px, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: rotate(-360deg) translate3d(2px, 0, 0) rotate(360deg);
+  }
+}
+
+	
+</style>
+  </defs>
+  <g transform="matrix(0, 0.35239002108573914, 0.35239002108573914, 0, 126.46234893798828, 51.06338119506836)">
+    <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="115.557" cy="62.137" r="1.68" transform="" style="fill: rgb(255, 255, 255); animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0);"/>
+    <circle class="st1" cx="15.49" cy="3.483" r="0.269" transform="" style="fill: rgb(255, 255, 255); animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0);"/>
+    <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="46.253" cy="102.119" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="135.266" cy="15.118" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+  </g>
+  <g transform="matrix(-0.35239002108573914, 0, 0, 0.35239002108573914, 152.09634399414062, 134.18475341796875)">
+    <circle class="st2" cx="-176.846" cy="-45.91" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="-15.035" cy="-10.704" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="46.244" cy="-72.942" r="1.68" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="-14.022" cy="-2.583" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="72.934" cy="-81.623" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(751.004 0 0 380.985 -60082.8 27808)"/>
+    <circle class="st2" cx="-48.05" cy="-98.01" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="26.535" cy="-119.961" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="82.543" cy="-1.806" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+  </g>
+  <g transform="matrix(0, -0.5153579711914062, -0.5095570087432861, 0, 345.7344055175782, 328.75042724609375)">
+    <circle class="st1" cx="11.63" cy="14.116" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="43.997" cy="104.097" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(-130.737 0 0 37.7097 6295.1 -3626.59)"/>
+    <circle class="st1" cx="-17.027" cy="-10.878" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="70.678" cy="-79.645" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="23.562" cy="-117.284" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="11.63" cy="14.116" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform="matrix(-12.9715 0 0 -309.45 2359 -21451.8)"/>
+    <circle class="st2" cx="77.52" cy="53.634" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+  </g>
+  <g transform="matrix(-0.29636502265930176, 0, 0, -0.29636502265930176, 63.417110443115234, 113.72122955322266)">
+    <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 252.332 -197.816)"/>
+    <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+  </g>
+  <g transform="matrix(-0.35239002108573914, 0, 0, 0.35239002108573914, 418.80407714843756, 83.25704193115234)">
+    <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="115.557" cy="62.137" r="1.68" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="46.253" cy="102.119" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st3" cx="1041.68" cy="24.07" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+  </g>
+  <g transform="matrix(0, -0.29636502265930176, 0.29636502265930176, 0, -88.16844940185547, 123.30196380615236)">
+    <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 252.332 -197.816)"/>
+    <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+  </g>
+  <g transform="matrix(0, -0.35239002108573914, 0.35239002108573914, 0, 175.7339630126953, 252.05393981933594)">
+    <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 690.314 637.79)"/>
+    <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999996 0 0 0.999996 690.315 637.791)"/>
+    <circle class="st3" cx="115.557" cy="62.137" r="1.68" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999995 0 0 1.00003 690.315 637.789)"/>
+    <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999933 0 0 0.999933 690.316 637.791)"/>
+    <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 690.314 637.791)"/>
+    <circle class="st2" cx="46.253" cy="102.119" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999995 0 0 0.999996 690.315 637.791)"/>
+    <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1.00002 0 0 1.00002 690.313 637.789)"/>
+  </g>
+  <g transform="matrix(-1, 0, 0, -1, 217.88121032714844, 313.1561279296875)" bx:origin="0.468 1.902">
+    <g transform="matrix(0, 0.35239, -0.35239, 0, 24.28038, 23.564392)">
+      <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="115.557" cy="62.137" r="1.68" transform="" style="fill: rgb(255, 255, 255); animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0);"/>
+      <circle class="st1" cx="15.49" cy="3.483" r="0.269" transform="" style="fill: rgb(255, 255, 255); animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0);"/>
+      <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="46.253" cy="102.119" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="135.266" cy="15.118" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    </g>
+    <g transform="matrix(0.35239, 0, 0, 0.35239, 194.476654, 143.100479)">
+      <circle class="st2" cx="-176.846" cy="-45.91" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="-15.035" cy="-10.704" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="46.244" cy="-72.942" r="1.68" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="-14.022" cy="-2.583" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="72.934" cy="-81.623" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(751.004 0 0 380.985 -60082.8 27808)"/>
+      <circle class="st2" cx="-48.05" cy="-98.01" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="26.535" cy="-119.961" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="82.543" cy="-1.806" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    </g>
+    <g transform="matrix(0, -0.419409, 0.292311, 0, 219.911606, 44.239223)">
+      <circle class="st1" cx="11.63" cy="14.116" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="43.997" cy="104.097" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(-130.737 0 0 37.7097 6295.1 -3626.59)"/>
+      <circle class="st1" cx="-17.027" cy="-10.878" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="70.678" cy="-79.645" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="23.562" cy="-117.284" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="11.63" cy="14.116" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform="matrix(-12.9715 0 0 -309.45 2359 -21451.8)"/>
+      <circle class="st2" cx="77.52" cy="53.634" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    </g>
+    <g transform="matrix(0.296365, 0, 0, -0.296365, 283.155884, 122.636955)">
+      <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 252.332 -197.816)"/>
+      <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    </g>
+    <g transform="matrix(0.35239, 0, 0, 0.35239, -135.754517, 31.886179)">
+      <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="115.557" cy="62.137" r="1.68" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="46.253" cy="102.119" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st3" cx="1041.68" cy="24.07" r="4" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    </g>
+    <g transform="matrix(0, -0.296365, -0.296365, 0, 434.741455, 132.217697)">
+      <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 252.332 -197.816)"/>
+      <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+      <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform=""/>
+    </g>
+    <g transform="matrix(0, -0.35239, -0.35239, 0, 134.019714, 81.323715)">
+      <circle class="st2" cx="152.92" cy="118.485" r="5.7" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 690.314 637.79)"/>
+      <circle class="st1" cx="13.622" cy="14.29" r="2.8" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999996 0 0 0.999996 690.315 637.791)"/>
+      <circle class="st3" cx="115.557" cy="62.137" r="1.68" style="animation-duration: 5s; animation-iteration-count: infinite; animation-name: yellow; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 4, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999995 0 0 1.00003 690.315 637.789)"/>
+      <circle class="st1" cx="15.49" cy="3.483" r="0.269" style="animation-duration: 6s; animation-iteration-count: infinite; animation-name: pink; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 2, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999933 0 0 0.999933 690.316 637.791)"/>
+      <circle class="st2" cx="79.776" cy="51.656" r="2.182" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1 0 0 1 690.314 637.791)"/>
+      <circle class="st2" cx="46.253" cy="102.119" r="4.118" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(0.999995 0 0 0.999996 690.315 637.791)"/>
+      <circle class="st2" cx="70.167" cy="131.473" r="1.798" style="animation-duration: 8s; animation-iteration-count: infinite; animation-name: blue; animation-timing-function: linear; left: 760px; top: 120px; z-index: 0; transform: matrix(1, 0, 0, 1, 3, 0); fill: rgb(255, 255, 255);" transform="matrix(1.00002 0 0 1.00002 690.313 637.789)"/>
+    </g>
+  </g>
+</svg>
