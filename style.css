@@ -35,7 +35,6 @@ body {
 	padding: 6rem;
     font-family: Bariol_Regular;
     font-display: swap;
-	background: #fff;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -46,6 +45,12 @@ body {
 	height: 100vh;
 	width: 100vw;
 	min-height: 36rem;
+  background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
+  background-size: 1600% 1600%;
+  -webkit-animation: gradient 100s ease infinite;
+  -moz-animation: gradient 100s ease infinite;
+  -o-animation: gradient 100s ease infinite;
+  animation: gradient 100s ease infinite;
 }
 
 /*
@@ -92,7 +97,7 @@ a {
 
 a:hover {
 	opacity: .8;
-    text-decoration: underline; 
+    text-decoration: underline;
 }
 
 small {
@@ -186,37 +191,33 @@ footer {
     100%{background-position:0% 50%}
 }
 
+body:hover, body:active {
+  background: #232323;
+}
+
+h1 {
+  color: #fff
+}
+small {
+  color: #fff
+}
+h1 a::after,
+small a::after {
+  background: #fff
+}
+#social a:nth-child(1),
+#social a:nth-child(2),
+#social a:nth-child(3) {
+  -webkit-filter: contrast(0) brightness(2) saturate(0);
+  filter: contrast(0) brightness(2) saturate(0)
+}
 
 @media (prefers-color-scheme:dark) {
-	body {
+	body:hover, body:active {
     background: #232323;
-	}
-	h1 {
-		color: #fff
-	}
-	small {
-		color: #fff
-	}
-	h1 a::after,
-	small a::after {
-		background: #fff
-	}
-	#social a:nth-child(1),
-	#social a:nth-child(2),
-	#social a:nth-child(3) {
-		-webkit-filter: contrast(0) brightness(2) saturate(0);
-		filter: contrast(0) brightness(2) saturate(0)
 	}
 }
 
-body:hover, body:active {
-    background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
-    background-size: 1600% 1600%;
-    -webkit-animation: gradient 100s ease infinite;
-    -moz-animation: gradient 100s ease infinite;
-    -o-animation: gradient 100s ease infinite;
-    animation: gradient 100s ease infinite;
-}
 
 @media (max-width:75rem) {
 	body {
