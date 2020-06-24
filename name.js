@@ -1,7 +1,10 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-const name = urlParams.get('name');
 const space = " ";
-var formatname = space.concat(name);
+var name = "";
 
-document.getElementById("name").innerHTML = formatname;
+if (urlParams.get('name') != null) {
+  var name = urlParams.get('name');
+  var formatname = space.concat(name);
+  document.getElementById("name").innerHTML = formatname;
+}

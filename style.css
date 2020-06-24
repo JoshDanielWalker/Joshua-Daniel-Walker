@@ -251,10 +251,10 @@ small a::after {
 		padding: 2rem
 	}
 	h1 {
-		font-size: 12vw
+		font-size: 10vw
 	}
 	footer {
-		margin-top: 2rem
+		margin-top: 2.4rem
 	}
 	#social a {
 		margin-right: 1.5rem
@@ -263,6 +263,6 @@ small a::after {
 
 @media (max-width:30rem) {
     	h1 {
-		font-size: 16vw;
+		font-size: 12vw;
 	}
 }
