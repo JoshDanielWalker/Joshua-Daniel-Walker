@@ -169,7 +169,15 @@ footer {
 	width: 1rem
 }
 
+#header {
+    display: contents;
+}
+
 #name {
+    display: contents;
+}
+
+#title {
     display: contents;
 }
 
