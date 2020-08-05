@@ -20,7 +20,8 @@
 
 html {
 	-webkit-box-sizing: border-box;
-	box-sizing: border-box
+	box-sizing: border-box;
+  background-color: #232323;
 }
 
 *,
@@ -45,12 +46,13 @@ body {
 	height: 100vh;
 	width: 100vw;
 	min-height: 36rem;
+  background-color: #232323;
   background: linear-gradient(270deg, #ff0000, #ffd800, #7dff00, #00ffd4, #006bff, #6000ff, #dc00ff, #ff0000);
   background-size: 1600% 1600%;
-  -webkit-animation: gradient 100s ease infinite;
-  -moz-animation: gradient 100s ease infinite;
-  -o-animation: gradient 100s ease infinite;
-  animation: gradient 100s ease infinite;
+  -webkit-animation: gradient 600s ease infinite;
+  -moz-animation: gradient 600s ease infinite;
+  -o-animation: gradient 600s ease infinite;
+  animation: gradient 600s ease infinite;
 }
 
 /*
@@ -202,9 +204,9 @@ footer {
     100%{background-position:0% 50%}
 }
 
-body:hover, body:active {
+/* body:hover, body:active {
   background: #232323;
-}
+} */
 
 h1 {
   color: #fff
@@ -223,11 +225,11 @@ small a::after {
   filter: contrast(0) brightness(2) saturate(0)
 }
 
-@media (prefers-color-scheme:dark) {
+/* @media (prefers-color-scheme:dark) {
 	body:hover, body:active {
     background: #232323;
 	}
-}
+} */
 
 
 @media (max-width:75rem) {
